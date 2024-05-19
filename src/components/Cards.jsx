@@ -22,7 +22,7 @@ const Cards = () => {
             <div className='w-full shadow-xl bg-gray-100 flex flex-col p-4 md:my-0 my-4 rounded-lg hover:scale-105 duration-300'>
                 <img className='w-20 mx-auto mt-[-3rem] bg-transparent' src={Double} alt="/" />
                 <h2 className='text-2xl font-bold text-center py-8'>Double Users</h2>
-                <p className='text-center text-4xl font-bold'>$249</p>
+                <p className='text-center text-4xl font-bold'>$259</p>
                 <div className='text-center font-medium'>
                     <p className='py-2 border-b mx-8 mt-8'>2 TB Storage</p>
                     <p className='py-2 border-b mx-8'>2 Granted Users</p>
